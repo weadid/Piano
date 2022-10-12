@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\bin\Debug\net6.0\Пианино.exe
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\bin\Debug\net6.0\Пианино.deps.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\bin\Debug\net6.0\Пианино.runtimeconfig.json
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\bin\Debug\net6.0\Пианино.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\bin\Debug\net6.0\Пианино.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfo.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\refint\Пианино.dll
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\Пианино.genruntimeconfig.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\Пианино\Пианино\obj\Debug\net6.0\ref\Пианино.dll
